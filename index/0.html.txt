@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>HACKED By Network</title>
+  <style>
+    body {
+      margin: 0;
+      background-color: black;
+      color: white;
+      font-family: monospace;
+      background-image: url('https://www.transparenttextures.com/patterns/asfalt-dark.png');
+      text-align: center;
+    }
+    .image {
+      margin-top: 50px;
+    }
+    .image img {
+      width: 300px;
+      border: 2px solid #444;
+      border-radius: 10px;
+      box-shadow: 0 0 10px #00ffcc;
+    }
+    .main-text {
+      font-size: 40px;
+      margin-top: 20px;
+      color: #ccc;
+      letter-spacing: 2px;
+    }
+    .main-text span {
+      color: #00ffcc;
+    }
+    .terminal {
+      background-color: #111;
+      margin: 30px auto;
+      padding: 20px;
+      width: 500px;
+      text-align: left;
+      border: 1px solid #444;
+      border-radius: 5px;
+    }
+    .green {
+      color: #00ff00;
+    }
+    .discord {
+      margin-top: 10px;
+      color: gray;
+      font-size: 14px;
+    }
+    .buttons {
+      position: absolute;
+      left: 20px;
+      top: 20px;
+      background-color: #000;
+      border: 1px solid #333;
+      padding: 10px;
+      border-radius: 5px;
+    }
+    .buttons button {
+      display: block;
+      margin: 5px 0;
+      background-color: black;
+      border: 1px solid #00ffcc;
+      color: #00ffcc;
+      padding: 5px;
+      cursor: pointer;
+      border-radius: 3px;
+    }
+    .buttons button:hover {
+      background-color: #00ffcc;
+      color: black;
+    }
+  </style>
+</head>
+<body>
+  <div class="buttons">
+    <button>بعيوني العيال بغيابهم</button>
+    <button>بعيوني عيال القصيم</button>
+    <button>بعيوني ارخصتلكء</button>
+    <button>بعيوني دمعه العتيبي</button>
+    <div class="discord">https://discord.gg/QVWRnpRc</div>
+  </div>
+
+  <div class="image">
+    <img src="https://i.postimg.cc/pV0t0mhS/5c2b1442ccd3d53f26d0179680f8e134.jpg" alt="My Photo">
+  </div>
+
+  <div class="main-text">HACKED BY <span>Network</span></div>
+
+  <div class="terminal">
+    <p>Network@system:~$ GG?</p>
+    <p class="green">Network: 😎😘 تحياتي و اشواقي لكم </p>
+  </div>
+
+  <div class="discord">OFFICIAL BLACKSHAMMER - Alsubaie NETWORK😘</div>
+</body>
+</html>
+ <audio autoplay loop>
+    <source src="song.mp3" type="audio/mpeg">
+  </audio>
